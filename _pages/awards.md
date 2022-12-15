@@ -1,40 +1,32 @@
 ---
 permalink: /awards/
 title: "Awards"
+classes: wide
 ---
+  
+## ACM Awards
 
-2012: ACM Fellow
++ ACM Fellow (2012)
++ ACM SIGPLAN Software Award for contributions to Jikes RVM (2012)
 
-2012: ACM SIGPLAN Software Award for contributions to Jikes RVM
+## Test of Time Papers
++ ACM SIGPLAN Most Influential 2000 OOPSLA Paper (2010)  
+[Adaptive Optimization in the Jalapeno JVM](http://doi.acm.org/10.1145/353171.353175) by Arnold, Fink, Grove, Hind, and Sweeney.
 
++ ACM SIGPLAN Most Influential 1997 OOPSLA Paper (2007)  
+[Call Graph Construction in Object-Oriented Languages](http://doi.acm.org/10.1145/263698.264352) by Grove, DeFouw, Dean, and Chambers.
 
++ ACM SIGPLAN Most Influential 1995 PLDI Paper (2005)  
+[Selective Specialization for Object-Oriented Languages](http://doi.acm.org/10.1145/207110.207119) by Dean, Chambers, and Grove.
 
-2010: ACM SIGPLAN Most Influential 2000 OOPSLA Paper:
-Adaptive Optimization in the Jalapeno JVM by Arnold, Fink, Grove, Hind, and Sweeney.
-
-2007: ACM SIGPLAN Most Influential 1997 OOPSLA Paper:
-Call Graph Construction in Object-Oriented Languages by Grove, DeFouw, Dean, and Chambers.
-
-2005: ACM SIGPLAN Most Influential 1995 PLDI Paper:
-Selective Specialization for Object-Oriented Languages by Dean, Chambers, and Grove.
-
-
-
-2007: IBM Gerstner Award for Client Excellence
-
-2006: IBM Corporate Award, Real-time Garbage Collection for Java
-
-2019: IBM Outstanding Technical Achievement Award, Serverless Technology on IBM Cloud
-
-2017: IBM Outstanding Technical Achievement Award, Swift@IBM
-
-2014: IBM Outstanding Innovation Award, X10
-
-2012: IBM Outstanding Innovation Award, X10
-
-2005: IBM Outstanding Technical Achievement Award, Jikes Research Virtual Machine
-
-2005: IBM Outstanding Technical Achievement Award, IBM's Entry into Real-time Java
-
-2001: IBM Research Division Award, Jikes Research Virtual Machine
+## IBM Awards
++ IBM Gerstner Award for Client Excellence (2007)
++ IBM Corporate Award, Real-time Garbage Collection for Java (2006)
++ IBM Outstanding Technical Achievement/Innovation Awards
+   + Serverless Technology on IBM Cloud (2019)
+   + Swift@IBM (2017)
+   + X10 (2014)
+   + X10 (2012)
+   + Jikes Research Virtual Machine (2005)
+   + IBM's Entry into Real-time Java (2005)
 
