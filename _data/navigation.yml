@@ -1,9 +1,13 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "About Me"
+    url: /
+  - title: "Publications"
+    url: /publications/
+  - title: Service
+    url: /service/
+  - title: "Patents"
+    url: /patents/
+  - title: "Technical Reports"
+    url: /techreports/
+  - title: "Awards"
+    url: /awards/
