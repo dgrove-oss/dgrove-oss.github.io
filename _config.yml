@@ -65,10 +65,10 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/davegrove/"
-    - label: "IBM Research Website"
+    - label: "My IBM Research Homepage"
       icon: "fas fa-fw fa-link"
       url: "https://researcher.ibm.com/view.php?person=us-groved"
-    - label: ACM Author Page
+    - label: My ACM Author Page
 #      icon: "ai ai-acm-square ai-fw"
       url: "https://dl.acm.org/profile/81100575938"
     - label: "Google Scholar"

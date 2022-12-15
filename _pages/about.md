@@ -5,13 +5,10 @@ excerpt: "About me"
 redirect_from: 
   - /about/
   - /about.html
-
+classes: wide
 ---
 
-
-
-
-I have made research contributions in a number of technical topics in programming language design and implementation. including the analysis and optimization of object-oriented languages, virtual machine design and implementation, scalable runtime systems, Just-In-Time compilation, online feedback-directed optimization, and garbage collection.  
+I have made research contributions in a number of technical topics in programming language design and implementation, including the analysis and optimization of object-oriented languages, virtual machine design and implementation, scalable runtime systems, Just-In-Time compilation, online feedback-directed optimization, and memory management.
 
 Since joining IBM in 1998, I have worked on a number of projects, including:
 
