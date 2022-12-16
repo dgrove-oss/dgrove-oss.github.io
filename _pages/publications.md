@@ -3,7 +3,7 @@ permalink: /publications/
 classes: wide
 tittle: ""
 ---
-This is a canonical list of my publications.  My [Google Scholar profile](https://scholar.google.com/citations?user=iU8ijrYAAAAJ&hl) is also fairly complete, but does contain some artifacts because I was one of the "authors" of the sample latex paper used by LNCS for many years. You will also find a subset of my recent IBM publications on [my IBM Research homepage](https://researcher.ibm.com/view.php?person=us-groved).
+This is a canonical list of my publications.  My [Google Scholar profile](https://scholar.google.com/citations?user=iU8ijrYAAAAJ&hl) is also fairly complete, but does contain some artifacts because I was one of the "authors" of the sample latex paper used by LNCS for many years. You will also find a subset of my recent IBM publications on [my IBM Research homepage](https://research.ibm.com/people/david-grove).
 
 # PhD Thesis
 
