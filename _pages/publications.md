@@ -182,7 +182,7 @@ Composing dataflow analyses and transformations
 : Sorin Lerner, David Grove, Craig Chambers  
 POPL '02: Proceedings of the 29th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, pp. 270--282, ACM, 2002 
 
-Dynamic type checking in Jalapeno 
+Dynamic type checking in Jalapeño   
 : Bowen Alpern, Anthony Cocchi, David Grove  
 JVM'01: Proceedings of the 2001 Symposium on JavaTM Virtual Machine Research and Technology Symposium, pp. 4--4, USENIX Association 
 
@@ -206,15 +206,15 @@ Efficient implementation of Java interfaces: Invokeinterface considered harmless
 : Bowen Alpern, Anthony Cocchi, Stephen Fink, David Grove  
 OOPSLA '01: Proceedings of the 16th ACM SIGPLAN conference on Object-oriented programming, systems, languages, and applications, pp. 108--124, ACM, 2001 
 
-Adaptive Optimization in the Jalapeno JVM: The Controllers Analytical Model 
+Adaptive Optimization in the Jalapeño JVM: The Controllers Analytical Model 
 : Matthew Arnold, Stephen Fink, David Grove, Michael Hind, Peter F Sweeney  
 The 3rd ACM Workshop on Feedback-Directed and Dynamic Optimization (FDDO-3),, pp. 15--19, 2000
 
-Adaptive optimization in the Jalapeno JVM 
+Adaptive optimization in the Jalapeño JVM 
 : Matthew Arnold, Stephen Fink, David Grove, Michael Hind, Peter F Sweeney  
 OOPSLA '00: Proceedings of the 15th ACM SIGPLAN conference on Object-oriented programming, systems, languages, and applications, pp. 47--65, ACM, 2000 
 
-The Jalapeno virtual machine 
+The Jalapeño virtual machine 
 : B. Alpern, C. R. Attanasio, J. J. Barton, M. G. Burke, P. Cheng, J.-D. Choi, A. Cocchi, S. J. Fink, D. Grove, M. Hind, S. F. Hummel, D. Lieber, V. Litvinov, M. F. Mergen, T. Ngo, J. R. Russell, V. Sarkar, M. J. Serrano, J. C. Shepherd, S. E. Smith, V. C. Sreedhar, H. Srinivasan, and J. Whaley  
 IBM Systems Journal 39(1), 211, Armonk, NY: International Business Machines Corp., 2000
 
@@ -222,7 +222,7 @@ Efficient and precise modeling of exceptions for the analysis of Java programs
 : Jong-Deok Choi, David Grove, Michael Hind, Vivek Sarkar  
 PASTE '99: Proceedings of the 1999 ACM SIGPLAN-SIGSOFT workshop on Program analysis for software tools and engineering, pp. 21--31, ACM 
 
-The Jalapeno dynamic optimizing compiler for Java 
+The Jalapeño dynamic optimizing compiler for Java 
 : Michael G. Burke, Jong-Deok Choi, Stephen Fink, David Grove, Michael Hind, Vivek Sarkar, Mauricio J. Serrano, V. C. Sreedhar, Harini Srinvasan, John Whaley  
 JAVA'99: Proceedings of the ACM 1999 confernece on Java Grande, pp. 129-141, ACM
 

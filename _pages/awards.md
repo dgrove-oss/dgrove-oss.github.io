@@ -11,7 +11,7 @@ classes: wide
 
 ## Test of Time Papers
 + ACM SIGPLAN Most Influential 2000 OOPSLA Paper (2010)  
-[Adaptive Optimization in the Jalapeno JVM](http://doi.acm.org/10.1145/353171.353175) by Arnold, Fink, Grove, Hind, and Sweeney.
+[Adaptive Optimization in the Jalapeño JVM](http://doi.acm.org/10.1145/353171.353175) by Arnold, Fink, Grove, Hind, and Sweeney.
 
 + ACM SIGPLAN Most Influential 1997 OOPSLA Paper (2007)  
 [Call Graph Construction in Object-Oriented Languages](http://doi.acm.org/10.1145/263698.264352) by Grove, DeFouw, Dean, and Chambers.
