@@ -19,7 +19,7 @@ languages, virtual machine design and implementation, scalable runtime
 systems, Just-In-Time compilation, online feedback-directed
 optimization, memory management, and cloud programming models.
 
-Since joining IBM Research in 1998, I have worked on a number of projects, including:
+Since joining IBM Research in 1998, I have worked on a number of projects:
 
 + My current research focuses on Cloud Programming Models and Serverless Computing. I contribute to [Apache OpenWhisk](https://openwhisk.apache.org/) and serve on its Project Management Committee. In the [KAR project](https://github.com/ibm/kar), we are developing a new fault-tolerant cloud programming model based on actors, reliable message delivery, and principled retries.
 
@@ -27,9 +27,9 @@ Since joining IBM Research in 1998, I have worked on a number of projects, inclu
 
 + I co-led the X10 Project. X10 is an object-oriented programming language with integrated support for fine-grained concurrency and distribution. Although originally designed for supercomputers, X10 provides scalable performance and programmer productivity on a variety of systems ranging from single multi-core machines, to the cloud, to high-end HPC-style clusters.
 
-+ I was a member of the Metronome Project, which developed the real-time Java garbage collection technology that became the basis for IBM's WebSphere Real Time product.
++ I was a member of the Metronome Project, which developed the real-time garbage collection technology for Java that became the basis for IBM's WebSphere Real Time product.
 
-+ I am part of the [Jikes RVM](https://jikesrvm.org/) open source community, serving on the Jikes RVM core team and steering committee. Jikes RVM grew out of the Jalapeño research project at IBM. I worked on the Jalapeño optimizing compiler, adaptive optimization system, and other aspects of the VM runtime.
++ I was a member of the [Jikes RVM](https://jikesrvm.org/) open source community, serving on the Jikes RVM core team and steering committee. Jikes RVM grew out of the Jalapeño research project at IBM. I worked on the Jalapeño optimizing compiler, adaptive optimization system, and other aspects of the VM runtime.
 
 Many of the software artifacts I use in my research are open source. For more information on my contributions to open source, follow [dgrove-oss](https://github.com/dgrove-oss) on GitHub.
 
