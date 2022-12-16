@@ -13,7 +13,7 @@ pushing the frontier of what is possible.  A recurring theme in my
 research is the pursuit of technology that enables programmers
 to more productively construct high performance software systems.
 
-During my career, I have made research contributions in variety of
+During my career, I have made research contributions in a variety of
 areas, including the analysis and optimization of object-oriented
 languages, virtual machine design and implementation, scalable runtime
 systems, Just-In-Time compilation, online feedback-directed
