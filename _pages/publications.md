@@ -142,7 +142,7 @@ Proceedings of the ACM SIGPLAN Conference on Programming Language Design and Imp
 : David F. Bacon, Perry Cheng, David Grove, Michael Hind, V. T. Rajan, Eran Yahav, Matthias Hauswirth, Christoph M. Kirsch, Daniel Spoonhower, Martin T. Vechev  
 Proceedings of the Fifth ACM International Conference on Embedded Software, pp. 68--78, ACM, 2005 
 
-[The Jikes research virtual machine project: building an open-source research community](http://dx.doi.org/10.1147/sj.442.0399)
+[The Jikes Research Virtual Machine project: building an open-source research community](http://dx.doi.org/10.1147/sj.442.0399)
 : Bowen Alpern, Stephen Augart, Stephen M Blackburn, Maira Butrico, Anthony Cocchi, Perry Cheng, Julian Dolby, Stephen Fink, David Grove, Michael Hind, Kathryn S McKinley, Mark Mergen, J Eliot B Moss, Ton Ngo, Vivek Sarkar  
 IBM System Journal 44(2), 399--417, IBM Corp., 2005
 

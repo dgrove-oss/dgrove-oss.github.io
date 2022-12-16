@@ -9,8 +9,8 @@ classes: wide
 ---
 
 I enjoy implementing and extending experimental software systems and
-pushing the frontier of what is possible.  A theme that unites much of
-my research career is the pursuit of technology that enables programmers
+pushing the frontier of what is possible.  A recurring theme in my 
+research is the pursuit of technology that enables programmers
 to more productively construct high performance software systems.
 
 During my career, I have made research contributions in variety of
