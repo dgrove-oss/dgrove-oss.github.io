@@ -8,7 +8,7 @@ This is a canonical list of my publications.  My [Google Scholar profile](https:
 # PhD Thesis
 
 Effective Interprocedural Optimization of Object-Oriented Languages 
-: David Grove 
+: David Grove  
 University of Washington, Dept. of Computer Science and Engineering, 1998
 
 # Refereed Publications
