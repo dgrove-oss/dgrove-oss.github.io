@@ -6,6 +6,10 @@ classes: wide
 
 I am a Member of the ACM and of ACM SIGPLAN.
 
+# Open Source
++ Apache OpenWhisk Project Management Committee
++ Jikes RVM Steering Committee
+
 # Conference Organization
 + Program Chair: OOPSLA 2020: Object-Oriented Programming, Systems, Languages, and Applications
 + General Chair: PLDI 2015: Programming Language Design and Implementation.
@@ -19,10 +23,6 @@ I am a Member of the ACM and of ACM SIGPLAN.
 + Steering Committee: PPoPP: Principles and Practice of Parallel Programming. 2015-2018
 + Steering Committee: ISMM: International Symposium on Memory Mangement. 2014-2017
 + Steering Committee: VEE: International Conference on Virtual Execution Environments 2006-2009
-
-# Open Source
-+ Apache OpenWhisk Project Management Committee
-+ Jikes RVM Steering Committee
 
 # Program Committees
 + OOPSLA 2021: 36th ACM SIGPLAN conference on Object-Oriented Programming, Systems, Languages, and Applications
