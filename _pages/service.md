@@ -19,6 +19,7 @@ I am a Member of the ACM and of ACM SIGPLAN.
 + Program Chair: VMIL 2012: The 6th workshop on Virtual Machines and Intermediate Languages
 + Program Chair: VEE 2006: The Second International Conference on Virtual Execution Environments
 + Co-chair: MRE 2005: 3rd Workshop on Managed Runtime Environments
++ Steering Committee: SPLASH/OOPLSA: Systems, Programming, Languages, and Applications: Software for Humanity. 2019-2024
 + Steering Committee: PLDI: Programming Language Design and Implementation. 2015-2018
 + Steering Committee: PPoPP: Principles and Practice of Parallel Programming. 2015-2018
 + Steering Committee: ISMM: International Symposium on Memory Mangement. 2014-2017
