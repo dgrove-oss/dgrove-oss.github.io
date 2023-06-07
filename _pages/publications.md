@@ -13,6 +13,10 @@ University of Washington, Dept. of Computer Science and Engineering, 1998
 
 # Refereed Publications
 
+[Reliable Actors with Retry Orchestration](https://dl.acm.org/doi/10.1145/3591273)
+: Olivier Tardieu, David Grove, Gheorghe-Teodor Bercea, Paul Castro, Jaroslaw Cwiklik, Edward Epstein
+Proceedings of the ACM on Programming Languages Volume 7 Issue PLDI Article No. 159 pp 1293–1316
+
 [Failure Recovery in Resilient X10](http://doi.acm.org/10.1145/3332372)
 : David Grove, Sara S. Hamouda, Benjamin Herta, Arun Iyengar, Kiyokuni Kawachiya, Josh Milthorpe, Vijay Saraswat, Avraham Shinnar, Mikio Takeuchi, Olivier Tardieu  
 ACM Trans. Program. Lang. Syst. 41(3), 15:1--15:30, ACM, 2019
