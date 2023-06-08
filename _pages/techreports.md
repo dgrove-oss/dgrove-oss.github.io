@@ -4,10 +4,6 @@ title: "Technical Reports and Preprints"
 classes: wide
 ---
 
-[Reliable Actors with Retry Orchestration](https://arxiv.org/abs/2111.11562)
-: Tardieu, Grove, Bercea, Castro, Cwiklik, Epstein  
-arXiv:2111.11562. November 2022.
-
 [X10 for Productivity and Performance at Scale: A Submission to the 2012 HPC Class II Challange](http://domino.watson.ibm.com/library/CyberDig.nsf/1e4115aea78b6e7c85256b360066f0d4/a5d9c5c4fc89242185257aee004d2e2d!OpenDocument)
 : Tardieu, Grove, Bloom, Cunningham, Herta, Kambadur, Saraswat, Shinnar, Takeuchi, and Vaziri  
 IBM Research Report RC25334. October 2012.
