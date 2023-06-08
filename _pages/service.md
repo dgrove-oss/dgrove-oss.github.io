@@ -26,6 +26,8 @@ I am a Member of the ACM and of ACM SIGPLAN.
 + Steering Committee: VEE: International Conference on Virtual Execution Environments 2006-2009
 
 # Program Committees
++ ASPLOS 2024: ACM International Conference on Architectural Support for Programming Languages and Operating Systems
++ VEE 2022: 18th ACM SIGPLAN/SIGOPS International Conference on Virtual Execution Environments
 + OOPSLA 2021: 36th ACM SIGPLAN conference on Object-Oriented Programming, Systems, Languages, and Applications
 + ECOOP 2021: 35th European Conference on Object-Oriented Programming
 + OOPSLA 2019: 34th ACM SIGPLAN conference on Object-Oriented Programming, Systems, Languages, and Applications
@@ -42,7 +44,7 @@ I am a Member of the ACM and of ACM SIGPLAN.
 + PLDI 2009: ACM SIGPLAN 2009 Conference on Programming Language Design and Implementation
 + CGO 2009: 2009 International Symposium on Code Generation and Optimization
 + PACT 2005: The Fourteenth International Conference on Parallel Architectures and Compilation Techniques
-+ VEE 2005: First ACM/USENIX International Conference on Virtual Execution Envir+ onments
++ VEE 2005: First ACM/USENIX International Conference on Virtual Execution Environments
 + PACT 2003: The Twelfth International Conference on Parallel Architectures and Compilation Techniques
 
 + PPPJ 2016: 13th International Conference on Principles and Practices of Programming on the Java Platform: Virtual Machines, Languages, and Tools
