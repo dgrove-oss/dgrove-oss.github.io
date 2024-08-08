@@ -13,6 +13,10 @@ University of Washington, Dept. of Computer Science and Engineering, 1998
 
 # Refereed Publications
 
+[An Empirical Comparison of Code Generation Approaches for Ansible](https://dl.acm.org/doi/10.1145/3643661.3643951):
+Benjamin Darnell, Hetarth Chopra, Aaron Councilman, David Grove, Yu-Xiong Wang, Vikram Adve
+InteNSE '24: Proceedings of the ACM/IEEE 2nd International Workshop on Interpretability, Robustness, and Benchmarking in Neural Software Engineering
+
 [Reliable Actors with Retry Orchestration](https://dl.acm.org/doi/10.1145/3591273)
 : Olivier Tardieu, David Grove, Gheorghe-Teodor Bercea, Paul Castro, Jaroslaw Cwiklik, Edward Epstein
 Proceedings of the ACM on Programming Languages Volume 7 Issue PLDI Article No. 159 pp 1293–1316
