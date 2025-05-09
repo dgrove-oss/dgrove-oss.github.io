@@ -21,7 +21,7 @@ optimization, memory management, and cloud programming models.
 
 Since joining IBM Research in 1998, I have worked on a number of projects:
 
-+ My current research focuses on Cloud Programming Models and Serverless Computing. I contribute to [Apache OpenWhisk](https://openwhisk.apache.org/) and serve on its Project Management Committee. In the [KAR project](https://github.com/ibm/kar), we are developing a new fault-tolerant cloud programming model based on actors, reliable message delivery, and principled retries.
++ My current research focuses on Cloud Programming Models and Serverless Computing. Most recently, I have been working on resource management on Kubernetes and contributing to [Kueue](https://github.com/kubernetes-sigs/kueue). I also contribute to [Apache OpenWhisk](https://openwhisk.apache.org/) and serve on its Project Management Committee. In the [KAR project](https://github.com/ibm/kar), we developed a new fault-tolerant cloud programming model based on actors, reliable message delivery, and principled retries.
 
 + I helped bring the Swift programming language to Linux as part of the [Swift@IBM](https://developer.ibm.com/swift/) technical team and the [Swift.org](https://swift.org/) community.
 
