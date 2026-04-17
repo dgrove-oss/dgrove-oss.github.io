@@ -26,6 +26,7 @@ I am a Member of the ACM and of ACM SIGPLAN.
 + Steering Committee: VEE: International Conference on Virtual Execution Environments 2006-2009
 
 # Program Committees
++ PLDI 2025 (Area Chair): Programming Language Design and Implementation
 + ASPLOS 2025: ACM International Conference on Architectural Support for Programming Languages and Operating Systems
 + ASPLOS 2024: ACM International Conference on Architectural Support for Programming Languages and Operating Systems
 + VEE 2022: 18th ACM SIGPLAN/SIGOPS International Conference on Virtual Execution Environments
